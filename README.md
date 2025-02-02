@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" /> Hi, I'm Arthur</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arthur-arslanov/">5 years</a> of experience. Learning new things 💡
+<a href="https://www.linkedin.com/in/arthur-arslanov/">5+ years</a> of experience. Learning new things 💡
 </p>
 
 <p align="center">
